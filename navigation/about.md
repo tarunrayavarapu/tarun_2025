@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
----
-layout: base
-title: Student Home 
-description: Home Page
-hide: true
----
 
 <h1>AP Computer Science Principles</h1>
 
