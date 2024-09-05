@@ -40,4 +40,4 @@ My name is Tarun Rayavarapu and I am 15 years old. I took this class because bot
 
 <h2>My Background:</h2>
 
-My family from both my Mom and my Dad side are from India, making me an Indian descendant. 
+My family from both my Mom and my Dad side are from India, making me an Indian descendant. There are many flags I associate with, including:
