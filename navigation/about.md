@@ -35,7 +35,62 @@ permalink: /about/
 
 
 
+<h2>My Background</h2>
+Both my parents are from India, while most of my cousins live here in the USA. I've lived in California for my whole life.
 
+<style>
+    /* Gradient background styling */
+    html {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background: linear-gradient(to bottom right, #b3b3b3, #4d4d4d);
+        color: white;
+    }
+
+
+
+
+    /* Styling for the flag container */
+    .flag-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 50px;
+    }
+
+
+
+
+    .flag {
+        text-align: center;
+        margin-right: 20px;
+    }
+
+
+
+
+    .flag img {
+        width: 200px;
+    }
+
+
+
+
+    /* Centering and text styling */
+    h1 {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+
+
+
+    ul {
+        list-style: none;
+        padding: 0;
+        text-align: center;
+        line-height: 1.8;
+    }
 
 
 <div class="flag-container">
