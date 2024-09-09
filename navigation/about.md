@@ -17,11 +17,16 @@ permalink: /about/
 
 •My name is Tarun Rayavarapu and I am 15 years old
 •I took this class because both of my parents are software engineers
+
 •Coding is the future of our world
+
 •This class would improve my coding skills
+
 •Cs is important for many careers
+
 •Challenging myself with this class is good for me
-<img src="https://i.insider.com/601441dd6dfbe10018e00c25?width=1136&format=jpeg" width="80%" />
+
+<td width = "150"><img src="{{site.baseurl}}/images/IMG_6721 (1).JPG" height="70" title="Pair" alt=""></td>
 
 
 
