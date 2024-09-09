@@ -7,8 +7,7 @@ hide: true
 
 <h1>Tarun Rayavarapu
 
-from emoji import emojize 
-print(emojize(":thumbs_up: Python is awesome! :grinning_face:"))
+
 
 <table>
     <tr>
