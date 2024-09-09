@@ -116,3 +116,4 @@ Both my parents are from India, while most of my cousins live here in the USA. I
     document.getElementById('californiaFlag').innerHTML = '<img src="' + californiaFlagUrl + '" alt="California Flag"><p>California</p>';
     document.getElementById('indiaFlag').innerHTML = '<img src="' + indiaFlagUrl + '" alt="Indian Flag"><p>India</p>';
 </script>
+
