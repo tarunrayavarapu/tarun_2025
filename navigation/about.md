@@ -26,7 +26,7 @@ permalink: /about/
 
 •Challenging myself with this class is good for me
 
-<td width = "150"><img src="{{site.baseurl}}/images/IMG_6721 (1).JPG" height="70" title="Pair" alt=""></td>
+<td width = "200"><img src="{{site.baseurl}}/images/IMG_6721 (1).JPG" height="150" title="Me and Groupmates" alt=""></td>
 
 
 
