@@ -32,70 +32,16 @@ permalink: /about/
 
 <h2>What I Enjoy</h2>
 
-<img src="https://i.etsystatic.com/6397925/r/il/b0f6c7/894698406/il_570xN.894698406_927u.jpg" alt="Image 1" width="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Soccerball.svg/500px-Soccerball.svg.png" alt="Image 1" width="150">
 
-<img src="https://i.etsystatic.com/6397925/r/il/825ef9/886345972/il_570xN.886345972_m7nf.jpg" alt="Image 2" width="150">
+<img src="https://static.vecteezy.com/system/resources/thumbnails/011/421/099/small/realistic-vector-basketball-isolated-png.png" alt="Image 2" width="150">
 
-<img src="https://www.pngkey.com/png/detail/403-4030326_japan-food-png-japanese-dinner-png.png" alt="Image 3" width="150">
+<img src="https://png.pngtree.com/png-clipart/20221001/ourmid/pngtree-fast-food-big-ham-burger-png-image_6244235.png" alt="Image 3" width="150">
 
 
 
 <h2>My Background</h2>
 Both my parents are from India, while most of my cousins live here in the USA. I've lived in California for my whole life.
-
-<style>
-    /* Gradient background styling */
-    html {
-        margin: 0;
-        font-family: Arial, sans-serif;
-        background: linear-gradient(to bottom right, #b3b3b3, #4d4d4d);
-        color: white;
-    }
-
-
-
-
-    /* Styling for the flag container */
-    .flag-container {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        margin-top: 50px;
-    }
-
-
-
-
-    .flag {
-        text-align: center;
-        margin-right: 20px;
-    }
-
-
-
-
-    .flag img {
-        width: 200px;
-    }
-
-
-
-
-    /* Centering and text styling */
-    h1 {
-        text-align: center;
-        margin-top: 30px;
-    }
-
-
-
-
-    ul {
-        list-style: none;
-        padding: 0;
-        text-align: center;
-        line-height: 1.8;
-    }
 
 
 <div class="flag-container">
@@ -120,5 +66,3 @@ Both my parents are from India, while most of my cousins live here in the USA. I
 
     document.getElementById('californiaFlag').innerHTML = '<img src="' + californiaFlagUrl + '" alt="California Flag"><p>California</p>';
     document.getElementById('indiaFlag').innerHTML = '<img src="' + indiaFlagUrl + '" alt="Indian Flag"><p>India</p>';
-</script>
-
