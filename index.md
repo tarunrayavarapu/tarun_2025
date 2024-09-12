@@ -11,9 +11,9 @@ hide: true
 
 <table>
     <tr>
-        <td width = "150"><img src="{{site.baseurl}}/images/download.jpeg" height="70" title="Pair" alt=""></td>
-        <td><a href="/_notebooks/Foundation/C_my notebook/Hack_1.ipynb">Hack 1</a></td>
-        <td><a href="/_notebooks/Foundation/C_my notebook/Hack_2.ipynb">Hack 2</a></td>
+        <td width = "200"><img src="{{site.baseurl}}/images/download.jpeg" height="120" title="Pair" alt=""></td>
+        <td><a href="/tarun_2025/notebook 1.html">Hack 1</a></td>
+        <td><a href="/tarun_2025//notebook 2.html">Hack 2</a></td>
         <td><a href="/tarun_2025/about/">About Me</a></td>
     </tr>
 </table>
