@@ -2,9 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+hide_title: true
 ---
 
+{%include nav/home.html %}
 
+<h1>About<h1>
 <h1>AP Computer Science Principles</h1>
 
 **Tarun Rayavarapu**

@@ -2,11 +2,14 @@
 layout: page
 title: Snake
 description: Snake Game
-hide: true
+hide_title: true
 ---
 
 
 {%include nav/home.html %}
+
+
+<h1>Snake Game<h1>
 
 
 
