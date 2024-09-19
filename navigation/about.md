@@ -18,16 +18,17 @@ hide_title: true
 <h2>About Me/Why I Took This Class:</h2>
 
 
-•My name is Tarun Rayavarapu and I am 15 years old
-•I took this class because both of my parents are software engineers
+  <li style="margin-bottom: 10px;">I took this class because both of my parents are software engineers</li>
+  <li style="margin-bottom: 10px;">Coding is the future of our world</li>
+  <li style="margin-bottom: 10px;">This class would improve my coding skills</li>
+  <li style="margin-bottom: 10px;">CS is important for many careers</li>
+  <li style="margin-bottom: 10px;">Challenging myself with this class is good for me</li>
+  
+  <div style="flex: 1; text-align: center;">
+    <img src="https://media.licdn.com/dms/image/D5612AQEdsqnka0y4Ng/article-cover_image-shrink_720_1280/0/1709474763485?e=2147483647&v=beta&t=yaDe74OO54QD-7b9OPtUjhSDK3AKN-1wy7UlGCMfSNQ" alt="Image 1" style="max-width: 25%; height: auto; margin-bottom: 20px;">
+    <img src="https://i.pinimg.com/originals/9e/43/44/9e4344fbf8840d797623bdaedae115e8.png" alt="Image 2" style="max-width: 25%; height: auto;">
+  </div>
 
-•Coding is the future of our world
-
-•This class would improve my coding skills
-
-•Cs is important for many careers
-
-•Challenging myself with this class is good for me
 
 <td width = "200"><img src="{{site.baseurl}}/images/IMG_6721 (1).JPG" height="150" title="Me and Groupmates" alt=""></td>
 
