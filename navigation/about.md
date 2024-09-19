@@ -7,6 +7,15 @@ hide_title: true
 
 {%include nav/home.html %}
 
+<script src="https://utteranc.es/client.js"
+        repo="tarunrayavarapu/tarun_2025"
+        issue-term="title"
+        label="blogpost-comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
 <h1>About<h1>
 <h1>AP Computer Science Principles</h1>
 
