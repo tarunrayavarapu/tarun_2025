@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Snake
-description: Snake Game
+title: Games
+description: games
 hide_title: true
 ---
 
@@ -320,4 +320,60 @@ hide_title: true
         }, true);
     })();
 </script>
+
+
+
+
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Cookie Clicker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f7f7f7;
+        }
+        h1 {
+            margin-top: 50px;
+        }
+        .cookie {
+            width: 200px;
+            cursor: pointer;
+            transition: transform 0.1s;
+        }
+        .cookie:active {
+            transform: scale(0.95); /* Adds a click effect by shrinking the image slightly */
+        }
+        .counter {
+            font-size: 24px;
+            margin: 20px 0;
+        }
+        .clicker-container {
+            margin-top: 30px;
+        }
+    </style>
+
+<h1>Cookie Clicker</h1>
+    <div class="counter">Cookies: <span id="cookieCount">0</span></div>
+    <div class="clicker-container">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2ChocolateChipCookies.jpg/250px-2ChocolateChipCookies.jpg" alt="Cookie" class="cookie" id="cookie">
+    </div>
+
+ <script>
+        // Initialize cookie count
+        let cookieCount = 0;
+
+        // Select the cookie image and counter element
+        const cookie = document.getElementById('cookie');
+        const cookieCountDisplay = document.getElementById('cookieCount');
+
+        // Add an event listener to the cookie image
+        cookie.addEventListener('click', () => {
+            // Increment the cookie count on each click
+            cookieCount++;
+            
+            // Update the cookie count display
+            cookieCountDisplay.textContent = cookieCount;
+        });
+    </script>
 
