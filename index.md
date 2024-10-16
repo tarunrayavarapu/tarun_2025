@@ -37,7 +37,7 @@ hide: true
             background-color: #f4f4f4;
             margin: 0;
             padding: 20px;
-            font-size: 1.1em; /* Increased overall font size */
+            font-size: 18px; /* Increased base font size */
         }
         header {
             text-align: center;
@@ -48,22 +48,22 @@ hide: true
             text-decoration: none;
             color: white;
             background-color: #007BFF;
-            padding: 10px 15px;
+            padding: 12px 18px; /* Increased padding */
             border-radius: 5px;
-            font-size: 1.1em; /* Increased font size for nav links */
+            font-size: 18px; /* Increased font size */
         }
         .link-container {
-            margin: 10px 0;
+            margin: 15px 0; /* Increased margin */
             position: relative;
         }
         .dropdown {
             cursor: pointer;
             background-color: #007BFF;
             color: white;
-            padding: 10px;
+            padding: 12px; /* Increased padding */
             border-radius: 5px;
             transition: background-color 0.3s;
-            font-size: 1.1em; /* Increased font size for dropdown */
+            font-size: 18px; /* Increased font size */
         }
         .dropdown:hover {
             background-color: #0056b3;
@@ -77,10 +77,10 @@ hide: true
             color: black;
             border: 1px solid #ccc;
             border-radius: 5px;
-            padding: 5px; /* Adjusted padding */
+            padding: 10px; /* Increased padding */
             width: 250px;
             z-index: 1;
-            font-size: 1.1em; /* Increased font size for dropdown content */
+            font-size: 16px; /* Increased font size for the dropdown content */
         }
         .link-container:hover .dropdown-content {
             display: block;
@@ -91,8 +91,8 @@ hide: true
             margin: 0; /* Remove margin for a tighter fit */
         }
         li {
-            margin: 2px 0; /* Adjusted margin for list items */
-            font-size: 1.1em; /* Increased font size for list items */
+            margin: 5px 0; /* Increased margin for list items */
+            font-size: 16px; /* Increased font size */
         }
     </style>
 </head>
@@ -225,3 +225,4 @@ hide: true
 
 </body>
 </html>
+
