@@ -24,10 +24,8 @@ hide: true
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
+
+<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tarun Rayavarapu</title>
     <style>
@@ -76,7 +74,7 @@ hide: true
             padding: 5px; /* Adjusted padding */
             width: 250px;
             z-index: 1;
-            font-size: 0.75em; /* Smaller font size for the dropdown content */
+            font-size: 0.85em; /* Slightly larger font size for the dropdown content */
         }
         .link-container:hover .dropdown-content {
             display: block;
@@ -218,13 +216,7 @@ hide: true
     </div>
 </div>
 
-</body>
-</html>
 
 
-
-
-
- 
 
 
