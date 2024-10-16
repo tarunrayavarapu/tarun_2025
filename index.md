@@ -237,6 +237,32 @@ hide: true
 </div>
 
 
+<div class="link-container">
+    <div class="dropdown">
+        <a href="https://tarunrayavarapu.github.io/tarun_2025/2024/10/15/java_sprites_1_IPYNB_2_.html" style="color: white; text-decoration: none;">Javascript for loops and Sprites</a>
+        <div class="dropdown-content">
+            <ul>
+                <li>For Loops Repeat Code: A JavaScript "for" loop runs a block of code a set number of times, making it easy to repeat actions like moving or drawing a sprite on the screen.</li>
+                <li>Looping Through Data: You can use a "for" loop to go through elements in an array, like looping through frames of animation for a sprite to create movement.</li>
+                <li>Sprites Are Images: A sprite is a 2D image or graphic used in games or animations, often moved or changed in response to user input or code.</li>
+                <li>For Loops Control Movement: By combining for loops with sprites, you can control things like how a sprite moves across the screen or changes over time, creating animations or interactions.</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
 </body>
 </html>
 
+
+
+
+<script src="https://utteranc.es/client.js"
+        repo="tarunrayavarapu/tarun_2025"
+        issue-term="title"
+        label="blogpost-comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
