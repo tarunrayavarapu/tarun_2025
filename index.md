@@ -50,6 +50,7 @@ hide: true
             background-color: #007BFF;
             padding: 10px 15px;
             border-radius: 5px;
+            font-size: 1.1em; /* Increased font size for nav links */
         }
         .link-container {
             margin: 10px 0;
@@ -62,6 +63,7 @@ hide: true
             padding: 10px;
             border-radius: 5px;
             transition: background-color 0.3s;
+            font-size: 1.1em; /* Increased font size for dropdown */
         }
         .dropdown:hover {
             background-color: #0056b3;
@@ -90,6 +92,7 @@ hide: true
         }
         li {
             margin: 2px 0; /* Adjusted margin for list items */
+            font-size: 1.1em; /* Increased font size for list items */
         }
     </style>
 </head>
@@ -220,11 +223,5 @@ hide: true
     </div>
 </div>
 
-
-
-
-
-
-
-
-
+</body>
+</html>
