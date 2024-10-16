@@ -23,10 +23,10 @@ hide: true
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
+
+
+
+<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tarun Rayavarapu</title>
     <style>
@@ -252,8 +252,32 @@ hide: true
 </div>
 
 
-</body>
-</html>
+
+ <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sprint 2 Final Project</title>
+    <style>
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            text-align: center;
+            text-decoration: none;
+            color: white;
+            background-color: #4CAF50;
+            border-radius: 5px;
+            border: none;
+            cursor: pointer;
+        }
+
+        .button:hover {
+            background-color: #45a049;
+        }
+</style>
+
+<a href="https://tarunrayavarapu.github.io/tarun_2025/2024/10/14/sprint2_final_IPYNB_2_.html" class="button">Sprint 2 Final Project</a>
+
+
 
 
 
