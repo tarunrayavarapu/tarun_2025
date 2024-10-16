@@ -23,6 +23,7 @@ hide: true
 
 
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -75,7 +76,7 @@ hide: true
             padding: 5px; /* Adjusted padding */
             width: 250px;
             z-index: 1;
-            font-size: 0.9em; /* Font size for the dropdown content */
+            font-size: 0.75em; /* Smaller font size for the dropdown content */
         }
         .link-container:hover .dropdown-content {
             display: block;
@@ -185,6 +186,41 @@ hide: true
                 <li>A nested conditional is an if-else statement inside another if-else statement.</li>
                 <li>They help in checking multiple conditions, one after the other.</li>
                 <li>The inner condition is only checked if the outer condition is true.</li>
+                <li>Nested conditionals can make decisions more complex, so it's important to keep them clear and simple.</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="link-container">
+    <div class="dropdown">Iteration
+        <div class="dropdown-content">
+            <ul>
+                <li>Repeats actions: Iteration allows a set of actions or instructions to be repeated multiple times.</li>
+                <li>Uses loops: Common loops like for, while, and do-while help control how many times the code runs.</li>
+                <li>Works with collections: Iteration is often used to go through items in a list, array, or other data structures.</li>
+                <li>Saves time: Instead of writing repetitive code, iteration automates repeated tasks efficiently.</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="link-container">
+    <div class="dropdown">Lists
+        <div class="dropdown-content">
+            <ul>
+                <li>Maintains Order: Lists keep elements in the order they are added, making it easy to access them by their position.</li>
+                <li>Flexible Size: You can change the size of a list at any time, adding or removing elements as needed.</li>
+                <li>Mixed Data Types: Lists can hold multiple types of data together, like strings, numbers, and other lists.</li>
+                <li>Easy Manipulation: Lists offer simple methods to manipulate data, such as adding, removing, or sorting elements.</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
+
 
 
 
