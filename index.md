@@ -109,7 +109,8 @@ hide: true
 </header>
 
 <div class="link-container">
-    <div class="dropdown">Variables and Assignments
+    <div class="dropdown">
+        <a href="https://tarunrayavarapu.github.io/tarun_2025/2024/10/09/homework_hacks_3_1_IPYNB_2_.html" style="color: white; text-decoration: none;">Variables and Assignments</a>
         <div class="dropdown-content">
             <ul>
                 <li>A variable is like a container that holds a value (such as a number or word) in a program.</li>
@@ -122,7 +123,8 @@ hide: true
 </div>
 
 <div class="link-container">
-    <div class="dropdown">Data Abstraction
+    <div class="dropdown">
+        <a href="https://tarunrayavarapu.github.io/tarun_2025/2024/10/11/homework_hacks_3_2_IPYNB_2_.html" style="color: white; text-decoration: none;">Data Abstraction</a>
         <div class="dropdown-content">
             <ul>
                 <li>Explore how data abstraction helps in managing complexity.</li>
@@ -133,7 +135,8 @@ hide: true
 </div>
 
 <div class="link-container">
-    <div class="dropdown">Mathematical Expressions
+    <div class="dropdown">
+        <a href="https://tarunrayavarapu.github.io/tarun_2025/2024/10/12/homework_hacks_3_3_IPYNB_2_.html" style="color: white; text-decoration: none;">Mathematical Expressions</a>
         <div class="dropdown-content">
             <ul>
                 <li>Basic Operations: Mathematical expressions in coding use operators like + (addition), - (subtraction), * (multiplication), and / (division).</li>
@@ -145,8 +148,10 @@ hide: true
     </div>
 </div>
 
+
 <div class="link-container">
-    <div class="dropdown">Strings
+    <div class="dropdown">
+        <a href="https://tarunrayavarapu.github.io/tarun_2025/2024/10/08/homework_hacks_3_4_IPYNB_2_.html" style="color: white; text-decoration: none;">Strings</a>
         <div class="dropdown-content">
             <ul>
                 <li>A string is a sequence of characters, like words or sentences, enclosed in quotes (e.g., "Hello").</li>
@@ -158,8 +163,10 @@ hide: true
     </div>
 </div>
 
+
 <div class="link-container">
-    <div class="dropdown">Boolean Expressions
+    <div class="dropdown">
+        <a href="https://tarunrayavarapu.github.io/tarun_2025/2024/10/13/homework_hacks_3_5_IPYNB_2_.html" style="color: white; text-decoration: none;">Boolean Expressions</a>
         <div class="dropdown-content">
             <ul>
                 <li>True/False Values: Boolean expressions evaluate to either true or false.</li>
@@ -171,8 +178,10 @@ hide: true
     </div>
 </div>
 
+
 <div class="link-container">
-    <div class="dropdown">Conditionals
+    <div class="dropdown">
+        <a href="https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p2/3-6-1" style="color: white; text-decoration: none;">Conditionals</a>
         <div class="dropdown-content">
             <ul>
                 <li>If Statements: Checks if a condition is true, then runs a block of code.</li>
@@ -184,8 +193,10 @@ hide: true
     </div>
 </div>
 
+
 <div class="link-container">
-    <div class="dropdown">Nested Conditionals
+    <div class="dropdown">
+        <a href="https://nighthawkcoders.github.io/portfolio_2025/csp/big-idea/p2/3-7" style="color: white; text-decoration: none;">Nested Conditionals</a>
         <div class="dropdown-content">
             <ul>
                 <li>A nested conditional is an if-else statement inside another if-else statement.</li>
@@ -197,8 +208,10 @@ hide: true
     </div>
 </div>
 
+
 <div class="link-container">
-    <div class="dropdown">Iteration
+    <div class="dropdown">
+        <a href="https://tarunrayavarapu.github.io/tarun_2025/2024/10/03/homework_hacks_3_8_IPYNB_2_.html" style="color: white; text-decoration: none;">Iteration</a>
         <div class="dropdown-content">
             <ul>
                 <li>Repeats actions: Iteration allows a set of actions or instructions to be repeated multiple times.</li>
@@ -210,8 +223,10 @@ hide: true
     </div>
 </div>
 
+
 <div class="link-container">
-    <div class="dropdown">Lists
+    <div class="dropdown">
+        <a href="https://tarunrayavarapu.github.io/tarun_2025/2024/10/04/homework_hacks_3_1_0_IPYNB_2_.html" style="color: white; text-decoration: none;">Lists</a>
         <div class="dropdown-content">
             <ul>
                 <li>Maintains Order: Lists keep elements in the order they are added, making it easy to access them by their position.</li>
@@ -222,6 +237,7 @@ hide: true
         </div>
     </div>
 </div>
+
 
 </body>
 </html>
