@@ -23,10 +23,9 @@ hide: true
 
 
 
-
-
-
-<meta charset="UTF-8">
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tarun Rayavarapu</title>
     <style>
@@ -76,21 +75,25 @@ hide: true
             border: 1px solid #ccc;
             border-radius: 5px;
             padding: 10px; /* Increased padding */
-            width: 250px;
+            width: 100%; /* Make the dropdown fit the full width */
+            max-width: 400px; /* Set a max-width so it fits the screen */
             z-index: 1;
             font-size: 16px; /* Increased font size for the dropdown content */
         }
         .link-container:hover .dropdown-content {
             display: block;
+            flex-direction: column; /* Ensure vertical layout */
         }
         ul {
-            list-style-type: none;
-            padding-left: 0;
+            list-style-type: disc; /* Show bullet points */
+            padding-left: 20px; /* Add left padding for bullet points */
             margin: 0; /* Remove margin for a tighter fit */
+            width: 100%;
         }
         li {
-            margin: 5px 0; /* Increased margin for list items */
+            margin: 10px 0; /* Add spacing between each bullet point */
             font-size: 16px; /* Increased font size */
+            word-wrap: break-word; /* Ensure long text wraps to the next line */
         }
     </style>
 </head>
@@ -125,8 +128,10 @@ hide: true
         <a href="https://tarunrayavarapu.github.io/tarun_2025/2024/10/11/homework_hacks_3_2_IPYNB_2_.html" style="color: white; text-decoration: none;">Data Abstraction</a>
         <div class="dropdown-content">
             <ul>
-                <li>Explore how data abstraction helps in managing complexity.</li>
-                <li>Abstracting details to focus on essential concepts.</li>
+                <li>Simplifies Complexity: Data abstraction hides the complex details and only shows what is necessary, making it easier to work with data</li>
+                <li>Focus on Key Features: You focus on important features without worrying about how things work behind the scenes.</li>
+                <li>Reusable Code: Abstraction allows you to reuse code by creating general structures that can be used for different tasks.</li>
+                <li>Organized Data: It helps in organizing and managing large amounts of data by grouping related data and operations together.</li>
             </ul>
         </div>
     </div>
@@ -252,8 +257,12 @@ hide: true
 </div>
 
 
+</body>
 
- <meta charset="UTF-8">
+
+
+<head>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sprint 2 Final Project</title>
     <style>
@@ -273,11 +282,14 @@ hide: true
         .button:hover {
             background-color: #45a049;
         }
-</style>
+    </style>
+</head>
+<body>
 
-<a href="https://tarunrayavarapu.github.io/tarun_2025/2024/10/14/sprint2_final_IPYNB_2_.html" class="button">Sprint 2 Final Project</a>
+ <a href="https://tarunrayavarapu.github.io/tarun_2025/2024/10/14/sprint2_final_IPYNB_2_.html" class="button">Sprint 2 Final Project</a>
 
-
+</body>
+</html>
 
 
 
