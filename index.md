@@ -25,10 +25,8 @@ hide: true
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
+  
+  <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tarun Rayavarapu</title>
     <style>
@@ -37,6 +35,7 @@ hide: true
             background-color: #f4f4f4;
             margin: 0;
             padding: 20px;
+            font-size: 1.1em; /* Increased overall font size */
         }
         header {
             text-align: center;
@@ -77,7 +76,7 @@ hide: true
             padding: 5px; /* Adjusted padding */
             width: 250px;
             z-index: 1;
-            font-size: 1.05em; /* Increased font size for better visibility */
+            font-size: 1.1em; /* Increased font size for dropdown content */
         }
         .link-container:hover .dropdown-content {
             display: block;
@@ -219,8 +218,8 @@ hide: true
     </div>
 </div>
 
-</body>
-</html>
+
+
 
 
 
