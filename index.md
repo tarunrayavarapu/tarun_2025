@@ -292,6 +292,10 @@ hide: true
 </html>
 
 
+#### link to issue: 
+
+<a href="https://github.com/tarunrayavarapu/tarun_2025/issues/5" class="button">Sprint 2 Issue</a>
+
 
 
 <script src="https://utteranc.es/client.js"
@@ -305,9 +309,7 @@ hide: true
 
 
 
-#### link to issue: 
 
-<a href="https://github.com/tarunrayavarapu/tarun_2025/issues/5" class="button">Sprint 2 Issue</a>
 
 
 
