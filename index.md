@@ -307,7 +307,7 @@ hide: true
 
 #### link to issue: 
 
-<a href="https://github.com/tarunrayavarapu/tarun_2025/issues/5"
+<a href="https://github.com/tarunrayavarapu/tarun_2025/issues/5" class="button">Sprint 2 Issue</a>
 
 
 
