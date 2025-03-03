@@ -27,13 +27,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
       - name: Setup Pages
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v3
       - name: Install dependencies
         run: |
           pip install nbconvert
           # Add any other necessary package installations here
+      - name: Install Jekyll
+        run: gem install jekyll bundler
       - name: Execute conversion script
         run: python scripts/convert_notebooks.py
       - name: Build with Jekyll
@@ -42,7 +44,7 @@ jobs:
           source: ./
           destination: ./_site
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        uses: actions/upload-pages-artifact@v2
 
   # Deployment job
   deploy:
